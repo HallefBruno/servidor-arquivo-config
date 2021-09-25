@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/HallefBruno/spring-config-yml
+          uri: https://github.com/HallefBruno/files-config-yml
           #username: username
           #password: password
           default-label: master
